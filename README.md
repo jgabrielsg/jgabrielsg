@@ -26,6 +26,8 @@ Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou a
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jgabrielsg&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielsg&layout=compact&theme=radical)
 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgabrielsg&theme=dracula)
+
 ![mm](template.png)
 
 | Python | R | CSS | HTML | Java |

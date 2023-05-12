@@ -3,7 +3,7 @@
 ## Sobre mim
 Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em busca de melhorar minhas habilidades em programação, há poucas coisas melhores que terminar um programa que você vê e pensa: "Nossa, isso ficou muito bom". Atualmente, estou estudando **Ciência de Dados** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
 
-<div style="background: linear-gradient(to right, red, white, red); height: 3px;"></div>
+![mm](template.png)
 
 ## Projetos
 - Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy.
@@ -15,7 +15,7 @@ Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em 
 - Ferramentas de controle de versão: Git, GitHub.
 - Programas de edição de código: VS Code, RStudio.
 
-<div style="background: linear-gradient(to right, red, white, red); height: 3px;"></div>
+![mm](template.png)
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-machado-23b376218/)
@@ -27,6 +27,8 @@ Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou aberto a novos projetos e atividades que possam melhorar minhas hablidades como programador.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jgabrielsg&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielsg&layout=compact&theme=radical)
+
+![mm](template.png)
 
 | Python | R | CSS | HTML | Java |
 |--------|---|-----|------|------|

@@ -1,2 +1,3 @@
-# Business-Intelligence-Dashboard
-Repoitório para o desenvolvimento do dashboard de inteligência comercial do projeto Trainee FGV Jr
+# João Gabriel Machado
+## Estudante de Ciência de Dados - Fundação Getúlio Vargas
+

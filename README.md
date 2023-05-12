@@ -1,11 +1,11 @@
-# Bem vindo.
+# Bem vindo à meu perfil.
 
 ## Sobre mim
 Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em busca de melhorar minhas habilidades em programação, há poucas coisas melhores que terminar um programa que você vê e pensa: "Nossa, isso ficou muito bom". Atualmente, estou estudando **Ciência de Dados** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
 
 ## Projetos
 - Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy.
-- Quarteto de Anscombe: Projeto feito em R (com R Markdown) sobre o Quarteto de Anscombe.
+- ![Quarteto de Anscombe](https://github.com/jgabrielsg/Quarteto-de-Anscombe): Projeto feito em R (com R Markdown) sobre o Quarteto de Anscombe.
 - Delta Vee: Bot de Discord usando Python com mais de 10 comandos funcionais e com deploy em servidor online.
 
 ## Habilidades

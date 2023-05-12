@@ -18,5 +18,10 @@ Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em 
 - [Instagram](https://www.instagram.com/joaogabrielmachado967/)
 - Email: jogabriel433@gmail.com
 
+![Python](Python.png)
+![Java](Java.jpg)
+![R](R.jpg)
+
+
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou aberto a qualquer coisa que me permitir evoluir como programador.
 

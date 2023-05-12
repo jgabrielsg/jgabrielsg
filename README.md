@@ -3,8 +3,6 @@
 ## Sobre mim
 Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em busca de melhorar minhas habilidades em programação, há poucas coisas melhores que terminar um programa que você vê e pensa: "Nossa, isso ficou muito bom". Atualmente, estou estudando **Ciência de Dados** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
 
-![mm](template.png)
-
 ## Projetos
 - Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy.
 - Quarteto de Anscombe: Projeto feito em R (com R Markdown) sobre o Quarteto de Anscombe.

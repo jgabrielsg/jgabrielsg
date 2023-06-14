@@ -1,4 +1,4 @@
-# Bem vindo à meu perfil.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Foldit&weight=600&size=50&pause=10&color=2B8A73&background=2F27270B&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 ## Sobre mim
 Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em busca de melhorar minhas habilidades em programação, há poucas coisas melhores que terminar um programa que você vê e pensa: "Nossa, isso ficou muito bom". Atualmente, estou estudando **Ciência de Dados** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
@@ -24,9 +24,7 @@ Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em 
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou aberto a novos projetos e atividades que possam melhorar minhas hablidades como programador.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jgabrielsg&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielsg&layout=compact&theme=radical)
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgabrielsg&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielsg&layout=compact&theme=radical) ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgabrielsg&theme=dracula)
 
 ![mm](template.png)
 

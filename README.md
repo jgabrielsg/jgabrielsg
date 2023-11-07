@@ -5,7 +5,7 @@ Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em 
 
 ## Projetos
 - Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy.
-- Quarteto de Anscombe: Projeto feito em R (com R Markdown) sobre o Quarteto de Anscombe.
+- Website de Marcenaria: Desenvolvimento, do design à produção, de um website usando Html, Css e JS com React
 - Delta Vee: Bot de Discord usando Python com mais de 10 comandos funcionais e com deploy em servidor online.
 
 ## Habilidades

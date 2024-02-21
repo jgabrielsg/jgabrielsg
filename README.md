@@ -4,12 +4,23 @@
 Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em busca de melhorar minhas habilidades em programação, há poucas coisas melhores que terminar um programa que você vê e pensa: "Nossa, isso ficou muito bom". Atualmente, estou estudando **Ciência de Dados** na **Fundação Getúlio Vargas** do Rio de Janeiro, onde eu moro.
 
 ## Projetos
-- Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy.
-- Website de Marcenaria: Desenvolvimento, do design à produção, de um website usando Html, Css e JS com React
-- Delta Vee: Bot de Discord usando Python com mais de 10 comandos funcionais e com deploy em servidor online.
+Já trabalhei em várias áreas de projetos. Gosto de me capacitar de tudo em pouco se possível, e gosto de oportunidades em _codes_ diferentes.
+
+#### Dashboard
+- Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy;
+- Dashboard Financeiro: Feito com dados retirados da API do Tiny ERP e Mercado Livre, usando Python;
+- Dashboard Pecuário: Feito através de dados do Excel, retirados utilizando a biblioteca Openpyxl.
+
+#### Website
+- [Artes Marcenaria](https://www.artesmarcenaria.com.br/): Desenvolvimento, do design à produção, de um website usando Html, Css e JS com React;
+- Clube Adolpho Bloch: Sendo Gerente, fui responsável pela estrutura e planejamento do projeto, além de ajuda com a programação;
+
+#### Outros
+- Delta Vee: Bot de Discord usando Python com mais de 10 comandos funcionais e com deploy em servidor online;
+- Banco de Dados FGV Jr.: Criação de um Banco de Dados usando Sqlite com front-end funcional e deploy online. Modelagem incluida no projeto.
 
 ## Habilidades
-- Linguagens de programação: Python, Java, R, HTML, CSS.
+- Linguagens de programação: Python, Java, R, HTML, CSS. Javascript (React)
 - Ferramentas de controle de versão: Git, GitHub.
 - Programas de edição de código: VS Code, RStudio.
 
@@ -20,7 +31,6 @@ Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em 
 - [Instagram](https://www.instagram.com/joaogabrielmachado967/)
 - Email: jogabriel433@gmail.com
 
-![Python](Python.png)
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou aberto a novos projetos e atividades que possam melhorar minhas hablidades como programador.
 

@@ -8,9 +8,10 @@ Olá! Me chamo João Gabriel e sou um entusiasta da tecnologia. Estou sempre em 
 Já trabalhei em várias áreas de projetos. Gosto de me capacitar de tudo em pouco se possível, e gosto de oportunidades em _codes_ diferentes.
 
 #### Dashboard
-- Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy;
-- Dashboard Financeiro: Feito com dados retirados da API do Tiny ERP e Mercado Livre, usando Python;
-- Dashboard Pecuário: Feito através de dados do Excel, retirados utilizando a biblioteca Openpyxl.
+- Dashboard Comercial: Criação de um Dashboard interativo feito em Python, usando Dash, Pandas e Numpy, com dados de venda e aquisição de clientes;
+- Dashboard Financeiro: Feito com dados retirados da API do Tiny ERP e Mercado Livre, usando Python, para observar margem de lucro e faturamento;
+- Dashboard Pecuário: Feito através de dados do Excel, retirados utilizando a biblioteca Openpyxl, com tabelas financeiras de resultados de seringueiras;
+- Dashboard de Marketing: Feito através de dados no Google Sheets, utilizando API para pegar os dados de Instagram e outra redes sociais.
 
 
 #### Website

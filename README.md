@@ -15,6 +15,7 @@ I have worked in various project areas. I like to be capable of a little bit of 
 #### Website 🌐
 * [Artes Marcenaria](https://www.artesmarcenaria.com.br/): Development, from design to production, of a website using HTML, CSS, and JS with React;
 * [Clube Adolpho Bloch](https://adolphobloch.vercel.app/): As Scrum Master and Product Owner, I was responsible for the structure and planning of the project, as well as helping with the programming;
+* [Last Bones](https://last-bones.vercel.app/): Also as a Scrum Master and Product Owner, I was responsible for the webdesign;
 
 #### Others 🎯
 * Delta Vee: Discord bot using Python with more than 10 functional commands and deployed on an online server;
